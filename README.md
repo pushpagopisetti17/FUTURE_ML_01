@@ -65,10 +65,10 @@ The dataset contains:
 ##  Output Visualizations
 
 ### Historical Sales Trend
-(Add Screenshot Here)
+![Historical Sales](screenshots/Historical_sales.png)
 
 ### Forecasted Sales Trend
-(Add Screenshot Here)
+![Forecasted Sales](screenshots/forecast_sales.png)
 
 ## Future Improvements
 
